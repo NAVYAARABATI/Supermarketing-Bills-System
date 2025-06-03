@@ -20,7 +20,7 @@ Make sure you have a C compiler installed. Compile the source code and run the e
 
 ## Author
 
-Your Name
+NAVYA ARABATI
 
 ## License
 
